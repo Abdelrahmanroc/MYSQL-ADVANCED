@@ -1,13 +1,8 @@
 # Antwoorden opdracht 1
 
-Antwoord in bytes:
-
-Antwoord in kilobytes:
+171*16719=2858949
 
 # Antwoorden opdracht 2
 
-Hoeveel scheelt het in kilobytes voor de `platform` kolom?
-
-Hoeveel scheelt het in kilobytes voor de `genre` kolom?
-
-Hoeveel scheelt het in kilobytes voor de `publisher` kolom?
+2858949/1000=2858.949
+-------------------------------------
